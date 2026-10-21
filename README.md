@@ -1,5 +1,5 @@
-# Awesome Free Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+``# Awesome Free Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+``
 A curated list of free, browser-based tools that do one thing well — for developers, designers, and everyone in between. Most run entirely in the browser with no sign-up and nothing to install.
 
 ## Contents
